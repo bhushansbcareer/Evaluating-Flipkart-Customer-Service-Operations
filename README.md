@@ -15,7 +15,7 @@ This project analyzes **customer call data** to uncover insights into **customer
 Customer service call records including timestamps, sentiment, CSAT scores, and more.  
 
 ## Process and Analysis  
-- - **Data Cleaning:** Handled missing values, duplicates, and formatting issues.  
+- **Data Cleaning:** Handled missing values, duplicates, and formatting issues.  
 - Defined key metrics for evaluating customer service and built a **Metric Tree** to link metrics to retention goals.  
 - Explored relationships between CSAT, response time, sentiment and accordingly formulated hypotheses.
 - Build **visualizations** to highlight key insights.
