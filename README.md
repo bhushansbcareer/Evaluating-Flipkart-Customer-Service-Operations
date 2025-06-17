@@ -21,7 +21,7 @@ Customer service call records including timestamps, sentiment, CSAT scores, and 
 - Build **visualizations** to highlight key insights.
 - Delivered **strategic recommendations** to improve customer service operations.   
 
-## 🛠️ Tools & Techniques
+## Tools & Techniques
 - **Metric Tree Design** – Visual mapping of KPIs to business goals 
 - **Excel** – Data cleaning, aggregate functions, pivot tables and charts 
 - **Statistical Analysis** – Correlation, hypothesis testing  
